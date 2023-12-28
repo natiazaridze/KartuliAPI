@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\KartuliAPI2",
+    "\\KartuliAPI2\\obj\\Release",
+    "\\KartuliAPI2\\Properties",
+    "\\KartuliAPI2\\Repositories",
+    "\\KartuliAPI2\\Repositories\\Interfaces",
+    "\\KartuliAPI2\\Repositories\\Repositories",
+    "\\KartuliAPI2\\Services",
+    "\\KartuliAPI2\\Services\\Interfaces",
+    "\\KartuliAPI2\\Services\\Services"
+  ],
+  "SelectedNode": "\\KartuliAPI2\\KartuliAPI2.csproj",
+  "PreviewInSolutionExplorer": false
+}
